@@ -1,0 +1,2 @@
+# EMOJI-ORACLE
+Mysterious emoji
