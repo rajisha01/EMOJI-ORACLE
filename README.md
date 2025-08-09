@@ -13,7 +13,7 @@
 - Member 2: Rajisha K -Kannur University
 
 ### Project Description
-[Its a mysterious emoji message viewer]
+Its a mysterious emoji message viewer
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
